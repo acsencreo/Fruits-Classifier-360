@@ -1,7 +1,7 @@
-# Fruits-Classifier-360
+###Fruits-Classifier-360
 
 ## Overview
-The Fruit Classifier 360 is a deep learning model based on the MobileNetV2 architecture. It is trained to classify images into various types of fruits based on the Fruits 360 dataset. The model can classify 24 different kinds of fruits and their different types.
+The Fruit Classifier 360 is a deep learning model based on the MobileNetV2 architecture and made using the PyTorch Machine Learning python library. It is trained to classify images into various types of fruits based on the Fruits 360 dataset. The model can classify 24 different kinds of fruits and their different types.
 
 ## Dataset
 The training dataset consists of a collection of labeled images of different fruits and their different types. The dataset is organized into separate folders for each class, with different proportions of test, train, and validation sets. The dataset can be obtained from [Kaggle - Fruits 360](https://www.kaggle.com/datasets/moltean/fruits).
