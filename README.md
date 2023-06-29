@@ -1,4 +1,4 @@
-#Fruits-Classifier-360
+## Fruits-Classifier-360
 
 ## Overview
 The Fruit Classifier 360 is a deep learning model based on the MobileNetV2 architecture and made using the PyTorch Machine Learning python library. It is trained to classify images into various types of fruits based on the Fruits 360 dataset. The model can classify 24 different kinds of fruits and their different types.
